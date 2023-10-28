@@ -2,22 +2,23 @@
 
 This python script emulates a Locrian scale synthesizer
 
-The frequencies in Hz of ascending notes for C4 as root note in the locrian scale\
-261.6256\
-277.1826\
-311.127\
-349.2282\
-369.9944\
-415.3047\
-466.1638\
-523.2511
+<pre>
+The frequencies in Hz of ascending notes for C4 in the locrian scale
+C4   : 261.6256
+Cs4  : 277.1826
+Ds4  : 311.127
+F4   : 349.2282
+Fs4  : 369.9944
+Gs4  : 415.3047
+As4  : 466.1638
+C5   : 523.2511
 
-The frequencies in Hz of descending notes for C4 as root note in the locrian scale\
-523.2511\
-466.1638\
-415.3047\
-369.9944\
-349.2282\
-311.127\
-277.1826\
-261.6256
+The frequencies in Hz of descending notes for C4 in the locrian scale
+C5   : 523.2511
+As4  : 466.1638
+Gs4  : 415.3047
+Fs4  : 369.9944
+F4   : 349.2282
+Ds4  : 311.127
+Cs4  : 277.1826
+C4   : 261.6256
